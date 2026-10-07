@@ -81,4 +81,4 @@ Conclusion
 
 This project demonstrates how a wireless drone network can be simulated using Python. It models node movement, wireless connectivity, packet transmission, route discovery, packet loss, and Packet Delivery Ratio.
 
-Author
+
